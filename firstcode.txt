@@ -1,0 +1,5 @@
+hello world first commit..third
+take input from user 
+
+
+submit data to data base 
