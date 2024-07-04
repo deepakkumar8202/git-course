@@ -1,0 +1,3 @@
+add and delete the user 
+modify the user 
+provide some special access to the user 
